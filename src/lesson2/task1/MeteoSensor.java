@@ -1,4 +1,4 @@
-package lesson2;
+package lesson2.task1;
 
 import java.time.*;
 public interface MeteoSensor{
